@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA CRM",
+  "description": "Enterprise Revenue Operations & Customer Relationship Management Platform built with React, Express, MongoDB, and JWT authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
